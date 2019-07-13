@@ -1,0 +1,1 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/IINemo/ostrov2019-/blob/master/src/symptom_checker.ipynb)
